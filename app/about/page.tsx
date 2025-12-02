@@ -1,5 +1,5 @@
 "use client";
-import Nav from "../component/nav";
+import Nav from "../components/nav";
 
 export default function About() {
     return(
