@@ -24,6 +24,18 @@ export default function Nav(){
         <a href="https://vyomaco.substack.com/" className="text-white font-semibold hover:text-gray-200">
             newslette
         </a>
+        <a href="https://vyoma-books.vercel.app/" className="text-white font-semibold hover:text-gray-200">
+            Books
+        </a>
+         <a href="https://vyomaco.wordpress.com/?_gl=1*sh83pk*_gcl_au*MTI4MTE4MTQ1Ny4xNzY0NzYyNDMyLjE2NTUwNjM0MDIuMTc2NDg1NTgwNC4xNzY0ODU2MDYx" className="text-white font-semibold hover:text-gray-200">
+            Magzine
+        </a>
+            <a href="https://vyoma-os.vercel.app/" className="text-white font-semibold hover:text-gray-200">
+            All in one toolkit
+        </a>
+         <a href="https://github.com/psjdeveloper/vyomaco/releases/tag/vyoma" className="text-white font-semibold hover:text-gray-200">
+            Android app
+        </a>
         </li>
     </ul>           
           </nav>
