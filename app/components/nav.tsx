@@ -33,12 +33,20 @@ export default function Nav(){
             Magzine
         </a>
         <br />
-            <a href="https://vyoma-os.vercel.app/" className="text-white font-semibold hover:text-gray-200">
+            <a href="https://vyoma-os.vercel.app/" className="text-white font-semibold hover:text-gray-200 space-x-2">
             All in one toolkit
         </a>
         <br />
-         <a href="https://github.com/psjdeveloper/vyomaco/releases/tag/vyoma" className="text-white font-semibold hover:text-gray-200">
+         <a href="https://github.com/psjdeveloper/vyomaco/releases/tag/vyoma" className="text-white font-semibold hover:text-gray-200  space-x-2">
             Android app
+        </a>
+        <br />
+         <a href="/lab" className="text-white font-semibold hover:text-gray-200 space-x-2">
+            vyoma Labs 
+        </a>
+        <br />
+         <a href="https://youruikit-site.vercel.app/" className="text-white font-semibold hover:text-gray-200 space-x-2">
+            Youruikit
         </a>
         </li>
     </ul>           
