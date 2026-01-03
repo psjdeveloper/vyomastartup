@@ -77,10 +77,17 @@ export default function Home() {
             <button className="bg-blue-700 text-white px-4 py-2 rounded-r hover:bg-blue-800 transition">
                 <a href="https://vyomaco.substack.com/subscribe">Subscribe </a>
             </button>
-          
+          <br /> 
+          <div className="text-gray-600 mt-4 space-10">
+            <br />
+          </div>
+             <button className="bg-blue-700 text-white px-4 py-2 rounded-r hover:bg-blue-800 transition  space-x-2.5">
+                <a href="/community">Community </a>
+            </button>
           </div>
         </div>
-      
+     
+          
       </section>
     </>
   );
